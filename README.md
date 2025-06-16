@@ -1,7 +1,9 @@
 # 1C_MCP_metadata
 MCP (Model Context Protocol) сервер для получения метаданных конфигурации 1С
-![image](https://github.com/user-attachments/assets/41f88045-9216-4011-955c-6cddfc7f954c)
+![image](https://github.com/user-attachments/assets/6befda90-ebf1-4c5c-83d5-b6fa0d6d922c)
+..
 
+![image](https://github.com/user-attachments/assets/677d666f-33fe-4434-b46d-aa1a162ee39f)
 
 ## Описание проекта
 
@@ -59,6 +61,6 @@ MCP (Model Context Protocol) сервер для получения метада
       ]
     }
   }
-}```
+}
 
 
