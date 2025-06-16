@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="CommonModule.MCPmeta_ОбщегоНазначения" id="a1a2e106-a041-457b-b52f-519b67397408" configVersion="19b42eb3e021c2ff012c0ffbef2bb2152f337703"/>
+		<Metadata name="CommonModule.MCPmeta_ОбщегоНазначения.Module" id="a1a2e106-a041-457b-b52f-519b67397408.0" configVersion="0289f049e78ae28e26dcccb6088b8f25683a9e17"/>
+		<Metadata name="Configuration.MCPmetadata" id="b96e7c27-a001-4b34-9508-66097c02cd7c" configVersion="4ad6dc1c4549f4791e837ec7e86abb06701a3926"/>
+		<Metadata name="HTTPService.MCPmeta_MCPСервис" id="e41ba3a3-f5ac-4455-a759-0d4fed391045" configVersion="0ec0494d473235785e2b87e71d09956d7843a3b1">
+			<Metadata name="HTTPService.MCPmeta_MCPСервис.URLTemplate.tools" id="0130964f-f852-415a-b746-293a9d37d96c"/>
+			<Metadata name="HTTPService.MCPmeta_MCPСервис.URLTemplate.tools.Method.tools" id="3be3f828-6137-48d0-a56f-c93220caf5cf"/>
+			<Metadata name="HTTPService.MCPmeta_MCPСервис.URLTemplate.call.Method.call" id="491e52e8-d1f4-451e-9755-019dae60edef"/>
+			<Metadata name="HTTPService.MCPmeta_MCPСервис.URLTemplate.call" id="5667a25e-a9be-4e80-bd14-c76fb81f120d"/>
+		</Metadata>
+		<Metadata name="HTTPService.MCPmeta_MCPСервис.Module" id="e41ba3a3-f5ac-4455-a759-0d4fed391045.0" configVersion="50e948101cdfaea22d32a345ada4b993d7c3a9ba"/>
+		<Metadata name="Language.Русский" id="9136b43f-9107-4c71-b24c-a5e3ac06f952" configVersion="dae88edba93e0eb65eb67d6e7aea9a6560cd2dc1"/>
+		<Metadata name="Role.MCPmeta_ОсновнаяРоль" id="ea1d2d26-61a1-4b8e-9225-d066ca1f587a" configVersion="8ac6396671d3a1e65e2cd0b53100597a4b227b6f"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
